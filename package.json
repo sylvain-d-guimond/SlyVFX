@@ -1,0 +1,23 @@
+{
+    "name": "com.bearlabs.slyvfx",
+    "version": "1.0.0",
+    "displayName": "Sly VFX",
+    "description": "VFX and shader graphs",
+    "unity": "2021.3",
+    "dependencies": {
+		"com.unity.render-pipelines.universal": "12.1.12",
+		"com.unity.visualeffectgraph": "12.1.12",
+		"com.unity.shadergraph": "12.1.12"
+	},
+    "keywords": [],
+    "author": {
+        "name": "Sylvain Guimond",
+        "email": "sylvain.d.guimond@gmail.com"
+    },
+    "samples": [{
+            "displayName": "Sample scenes",
+            "description": "Scene samples for SlyVFX",
+            "path": "Samples~/EffectLibrary"
+        }
+    ]
+}
